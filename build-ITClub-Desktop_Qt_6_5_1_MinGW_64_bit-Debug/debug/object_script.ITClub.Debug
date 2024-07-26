@@ -1,0 +1,16 @@
+debug/main.o
+debug/mainwindow.o
+debug/usertype.o
+debug/admin_login.o
+debug/memberinterface.o
+debug/admininterface.o
+debug/addevents.o
+debug/addmembers.o
+debug/qrc_resource.o
+debug/moc_mainwindow.o
+debug/moc_usertype.o
+debug/moc_admin_login.o
+debug/moc_memberinterface.o
+debug/moc_admininterface.o
+debug/moc_addevents.o
+debug/moc_addmembers.o

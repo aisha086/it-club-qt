@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>imgs/admin-icon.png</file>
+        <file>imgs/login-icon.png</file>
+        <file>imgs/logo-icon.png</file>
+        <file>imgs/member-icon.png</file>
+        <file>databases/ITClub_Databases.db</file>
+    </qresource>
+</RCC>

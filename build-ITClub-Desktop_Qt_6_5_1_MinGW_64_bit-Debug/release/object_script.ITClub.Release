@@ -1,0 +1,16 @@
+release/main.o
+release/mainwindow.o
+release/usertype.o
+release/admin_login.o
+release/memberinterface.o
+release/admininterface.o
+release/addevents.o
+release/addmembers.o
+release/qrc_resource.o
+release/moc_mainwindow.o
+release/moc_usertype.o
+release/moc_admin_login.o
+release/moc_memberinterface.o
+release/moc_admininterface.o
+release/moc_addevents.o
+release/moc_addmembers.o
